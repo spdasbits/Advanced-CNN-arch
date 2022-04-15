@@ -1,1 +1,1 @@
-# Advanced-CNN-arch
+# Advanced-CNN-Architectures
